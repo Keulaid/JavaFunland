@@ -3,7 +3,8 @@ package helloWorld;
 
 public class HelloWorld {
 	public static void main (String[] arguments){
-		System.out.println("Good afternoon!");
+		System.out.println("Hello World!");
+		System.out.println("Hi world");
 		// make that sixteen...
 	}
 }
